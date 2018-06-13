@@ -33,7 +33,7 @@ import javax.ws.rs.Path;
 public class HelloService {
 
     @GET
-    @Path("/hello")
+    @Path("/")
     public String get() {
         // TODO: Implementation for HTTP GET request
         System.out.println("GET invoked");
