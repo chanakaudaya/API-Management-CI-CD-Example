@@ -123,7 +123,7 @@ Check out the [Travis build](https://travis-ci.org/manjulaRathnayaka/API-Managem
 
     
 
-That is it. Now you can refer the build log to understand the execution flow. Note that this is a very simple .travis.yml configuration and you may use advanced features of travis to configure different states etc.
+That is all you need to do. Now you can refer the build log to understand the execution flow. Note that this is a very simple .travis.yml configuration and you may use advanced features of travis to configure different states etc.
 
   
 
